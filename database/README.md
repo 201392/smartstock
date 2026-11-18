@@ -89,3 +89,5 @@ Exit using `\q`.
 - Order creation and stock updates must use PostgreSQL transactions.
 - Stock quantities and inventory movement records must remain consistent.
 - Use versioned database migrations for future schema changes.
+## Contributors
+- afzaal ali 
