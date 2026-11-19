@@ -1,7 +1,6 @@
-﻿
-# SmartStock
+﻿# SmartStock
 
-Smart Inventory and Order Management System
+**Smart Inventory and Order Management System**
 
 ## Project Goal
 
@@ -16,4 +15,8 @@ Manage products, suppliers, inventory, and orders.
 - Docker
 - GitHub Actions
 
-- Contributor: Khalid
+---
+
+## Contributors
+
+ ### Khalid Mehmood 
