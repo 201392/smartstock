@@ -1,4 +1,5 @@
-﻿# SmartStock
+﻿
+# SmartStock
 
 Smart Inventory and Order Management System
 
@@ -14,3 +15,5 @@ Manage products, suppliers, inventory, and orders.
 - Git and GitHub
 - Docker
 - GitHub Actions
+
+- Contributor: Khalid
